@@ -1,0 +1,143 @@
+ 
+******************** Results as of Tue Dec  7 21:00:02 2021 ********************
+ 
+You average 1.52 strokes above par on hole 1.
+
+You average 1.08 strokes above par on hole 2.
+
+You average 2.4 strokes above par on hole 3.
+
+You average 1.96 strokes above par on hole 4.
+
+You average 1.84 strokes above par on hole 5.
+
+You average 1.36 strokes above par on hole 6.
+
+You average 1.52 strokes above par on hole 7.
+
+You average 2.0 strokes above par on hole 8.
+
+You average 1.52 strokes above par on hole 9.
+
+You average 1.08 strokes above par on hole 10.
+
+You average 1.48 strokes above par on hole 11.
+
+You average 2.0 strokes above par on hole 12.
+
+You average 1.36 strokes above par on hole 13.
+
+You average 1.6 strokes above par on hole 14.
+
+You average 1.52 strokes above par on hole 15.
+
+You average 1.0 stroke above par on hole 16.
+
+You average 2.56 strokes above par on hole 17.
+
+You average 2.08 strokes above par on hole 18.
+
+********************
+
+Trends for every hole at Old Overton Country Club:
+
+hole 1: - trending down
+
+hole 2: --- 
+
+hole 3: --- 
+
+hole 4: + trending up
+
+hole 5: --- 
+
+hole 6: - trending down
+
+hole 7: + trending up
+
+hole 8: - trending down
+
+hole 9: --- 
+
+hole 10: --- 
+
+hole 11: + trending up
+
+hole 12: - trending down
+
+hole 13: --- 
+
+hole 14: - trending down
+
+hole 15: --- 
+
+hole 16: --- 
+
+hole 17: + trending up
+
+hole 18: --- 
+
+********************
+
+Your three best holes on the golf course are: 
+
+1. hole 16
+T2. hole 2
+T2. hole 10
+
+T3. hole 6
+T3. hole 13
+
+
+
+Awesome! Keep up the good work here!
+
+********************
+
+Your three worst holes on the golf course are: 
+
+1. hole 17
+2. hole 3
+3. hole 18
+
+Uh-oh! There's a lot of work to do here.
+
+********************
+
+You average 1.66 strokes above par through every hole at Old Overton Country Club.
+
+********************
+
+You average a round of 100.9 at Old Overton Country Club.
+
+********************
+
+Percentages of each score mark recorded at Old Overton Country Club:
+
+Hole-in-one: 0.0 %
+
+Double eagle: 0.0 %
+
+Eagle: 0.4 %
+
+Birdie: 1.6 %
+
+Par: 16.7 %
+
+Bogey: 30.4 %
+
+Double bogey: 25.3 %
+
+Triple bogey: 16.7 %
+
+Quadruple bogey or worse: 8.9 %
+
+********************
+
+Average number of snowmen per round at Old Overton Country Club:
+
+1.44
+
+Stay frosty my friend!
+
+********************
